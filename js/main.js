@@ -40,3 +40,4 @@
   initGallery();
   initContactForm();
 })();
+
